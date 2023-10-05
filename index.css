@@ -1,0 +1,31 @@
+/*CSS Reset*/
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "Play", sans-serif;
+}
+
+.bg-landing {
+	background-color: forestgreen;
+}
+
+.bg-projects {
+	background-color: darkolivegreen;
+}
+
+.bg-tools {
+	background-color: olivedrab;
+}
+
+.tool-logo {
+	width: 150px;
+}
+
+.bg-contact {
+	background-color: olive;
+}
+
+.bi {
+	font-size: 2rem;
+}
